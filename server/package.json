@@ -1,0 +1,15 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "春招秋招试题后端",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chiko",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.15.3",
+    "prisma": "^6.0.1"
+  }
+}
